@@ -2,6 +2,8 @@
 name = "ant"
 version = "0.1.0"
 edition = "2021"
+authors = ["Morgan McMillan <mcmillan.a.morgan@gmail.com>"]
+description = "A unique take on the classic game of Langtons Ant"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
