@@ -1,0 +1,1 @@
+C:\Users\mcmil\rust\ant\target\release\ant.exe: C:\Users\mcmil\rust\ant\src\cli.rs C:\Users\mcmil\rust\ant\src\main.rs C:\Users\mcmil\rust\ant\src\structs\ant.rs C:\Users\mcmil\rust\ant\src\structs\direction.rs C:\Users\mcmil\rust\ant\src\structs\grid.rs C:\Users\mcmil\rust\ant\src\structs\rule.rs C:\Users\mcmil\rust\ant\src\structs.rs

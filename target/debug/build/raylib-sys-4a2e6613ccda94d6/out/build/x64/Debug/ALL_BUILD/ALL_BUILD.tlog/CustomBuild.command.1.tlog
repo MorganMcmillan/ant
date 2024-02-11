@@ -1,0 +1,10 @@
+^C:\USERS\MCMIL\RUST\ANT\TARGET\DEBUG\BUILD\RAYLIB-SYS-4A2E6613CCDA94D6\OUT\RAYLIB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/raylib -BC:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/build --check-stamp-file C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

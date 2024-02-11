@@ -1,0 +1,10 @@
+^C:\USERS\MCMIL\RUST\ANT\TARGET\DEBUG\BUILD\RAYLIB-SYS-4A2E6613CCDA94D6\OUT\BUILD\CMAKEFILES\069E5DFBE85937269D9256C214EC1C85\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\core.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\models.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\shapes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\text.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\textures.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\raudio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\raylib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\rlgl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\physac.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\raymath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\raudio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\raylib\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\input.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\vulkan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_joystick.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_time.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_thread.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\wgl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\egl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\osmesa_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F29787C4-D5D0-331B-B368-9EED9A97B727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{336749A7-F71C-3100-87F7-E521BD586080}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3454934B-D1EC-3176-9568-F623580C7345}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

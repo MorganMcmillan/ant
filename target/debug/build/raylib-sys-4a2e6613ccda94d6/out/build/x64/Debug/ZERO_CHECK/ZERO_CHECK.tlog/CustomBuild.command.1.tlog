@@ -1,0 +1,10 @@
+^C:\USERS\MCMIL\RUST\ANT\TARGET\DEBUG\BUILD\RAYLIB-SYS-4A2E6613CCDA94D6\OUT\BUILD\CMAKEFILES\069E5DFBE85937269D9256C214EC1C85\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/raylib -BC:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/build/raylib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

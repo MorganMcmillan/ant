@@ -1,0 +1,1 @@
+C:\Users\mcmil\rust\ant\target\debug\build\raylib-sys-4a2e6613ccda94d6\out\build\raylib\external\glfw\src\glfw_objlib.dir\Debug\glfw_objlib.lib

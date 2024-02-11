@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mcmil\rust\ant\target\release\build\raylib-sys-bda7ce756590917d\out\build\CMakeFiles\adf22c9bbc3b6a51bccd2dbde868741e\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5630E9D5-060F-397D-9497-9A51C886F1CF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

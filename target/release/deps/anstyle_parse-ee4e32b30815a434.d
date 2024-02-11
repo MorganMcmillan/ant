@@ -1,0 +1,11 @@
+C:\Users\mcmil\rust\ant\target\release\deps\libanstyle_parse-ee4e32b30815a434.rmeta: C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs
+
+C:\Users\mcmil\rust\ant\target\release\deps\libanstyle_parse-ee4e32b30815a434.rlib: C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs
+
+C:\Users\mcmil\rust\ant\target\release\deps\anstyle_parse-ee4e32b30815a434.d: C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs
+
+C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs:
+C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs:
+C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs:
+C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs:
+C:\Users\mcmil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs:
