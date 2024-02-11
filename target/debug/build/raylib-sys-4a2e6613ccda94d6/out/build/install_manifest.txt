@@ -1,9 +1,0 @@
-C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/lib/raylib.lib
-C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/include/raylib.h
-C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/include/rlgl.h
-C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/include/physac.h
-C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/include/raymath.h
-C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/include/raudio.h
-C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/lib/pkgconfig/raylib.pc
-C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/lib/cmake/raylib/raylib-config-version.cmake
-C:/Users/mcmil/rust/ant/target/debug/build/raylib-sys-4a2e6613ccda94d6/out/lib/cmake/raylib/raylib-config.cmake

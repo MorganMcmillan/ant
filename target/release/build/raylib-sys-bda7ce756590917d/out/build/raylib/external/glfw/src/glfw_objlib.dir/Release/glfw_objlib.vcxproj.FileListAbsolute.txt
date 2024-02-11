@@ -1,1 +1,0 @@
-C:\Users\mcmil\rust\ant\target\release\build\raylib-sys-bda7ce756590917d\out\build\raylib\external\glfw\src\glfw_objlib.dir\Release\glfw_objlib.lib
