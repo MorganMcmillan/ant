@@ -23,3 +23,9 @@ o: outputs the state into the clipboard
 left click: spawn several ants at the cursor's position
     
 right click: spawn only one ant at the cursor's position
+
+# Screenshots
+
+![1](screenshots/sc_1155929583.png)
+![2](screenshots/sc_3956770270.png)
+![3](screenshots/sc_482556851.png)
