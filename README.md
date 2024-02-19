@@ -32,4 +32,4 @@ right click: spawn only one ant at the cursor's position
 ![4](screenshots/sc_2307215456.png)
 ![5](screenshots/sc_3123957573.png)
 ![6](screenshots/sc_3854846576.png)
-![7](screenshots/sc_3854846576.png)
+![7](screenshots/sc_2456483030.png)
