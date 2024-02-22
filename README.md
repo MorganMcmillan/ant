@@ -1,6 +1,6 @@
 # Ant: A unique take on the classic game of [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
 
-This crate adapts Langton's Ant by allowing the ant to move in 4 directions (Up, Dowm, Left, Right) instead of 2.
+This crate adapts Langton's Ant by allowing the ant to move in 4 directions (Up, Down, Left, Right) instead of just left and right.
 
 To prevent the ant from just walking in a straight line, the board wraps around to the other side.
 
